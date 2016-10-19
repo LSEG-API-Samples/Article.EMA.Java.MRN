@@ -3,7 +3,7 @@
 
 #####Overview
 example150__NewsAnalytics__Streaming is a simple example that uses EMA Java/Elektron SDK
-to demonstrate subscription, decoding and parsing of four MRN data feeds: 
+to demonstrate subscription, decoding and parsing of four MRN data streams: 
 
 * MRN_HDLN
 * MRN_STORY
