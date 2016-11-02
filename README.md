@@ -81,9 +81,10 @@ Streaming data from the four RICs (streams) is presented side-by-side so that on
 * Visually compare the data between the streams
 * Select the stream that is best suited for a specific use case
 
-##MRN (Machine Readable News) on Elektron
-####EMA Java Store Example
 
+
+
+####EMA Java Store Example
 #####Overview
 NewsAnalytics_Store example illustrates subscribing, decoding and parsing of MRN News Analytics via MRN_TRNA RIC, and storing archiving the data into MySQL database.  Subsequently, the collected data is ready for analysis and visualization.  Simultaneously or consequently, it can be used for custom target alerting. 
 
