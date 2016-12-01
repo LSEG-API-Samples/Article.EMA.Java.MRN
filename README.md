@@ -3,9 +3,8 @@
 
 #####Overview
 example150__NewsAnalytics__Streaming is a simple example that uses EMA Java/Elektron SDK
-to demonstrate subscription, decoding and parsing of four MRN data streams: 
+to demonstrate subscription, decoding and parsing of MRN data streams: 
 
-* MRN_HDLN
 * MRN_STORY
 * MRN_TRSI
 * MRN_TRNA
@@ -19,8 +18,6 @@ We used:
 
 #####How to Run
 Command line arguments: 
-
-_MRN_HOST_ 14002 _MRN_SERVICE_ MRN_HDLN _MRN_USER_
 
 _MRN_HOST_ 14002 _MRN_SERVICE_ MRN_STORY _MRN_USER_
 
@@ -42,8 +39,7 @@ _MRN_HOST_ 14002 _MRN_SERVICE_ MRN_TRSI _MRN_USER_
 
 ####EMA Java GUI Example
 #####Overview
-NewsAnalytics__Streaming_GUI is a GUI Viewer that allows to view side-by-side and demonstrates subscribing, decoding and parsing of four MRN data RICs: 
-* MRN_HDLN
+NewsAnalytics__Streaming_GUI is a GUI Viewer that allows to view side-by-side and demonstrates subscribing, decoding and parsing of MRN data RICs: 
 * MRN_STORY
 * MRN_TRSI
 * MRN_TRNA
