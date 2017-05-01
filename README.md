@@ -1,8 +1,7 @@
 ##MRN (Machine Readable News) on Elektron
 
 ####Introduction
-This project is one of the many learning materials published by Thomson Reuters to help developers learning Thomson Reuters APIs.
-This specific project source code is part of the [Introduction to machine readable news with Elektron Message API](https://developers.thomsonreuters.com/article/mrn-article). Please consult this page for more learning materials and documentation about this API.
+This set of examples is one of the many learning materials published by Thomson Reuters to help developers learning Thomson Reuters APIs; this source code is part of the [Introduction to machine readable news with Elektron Message API](https://developers.thomsonreuters.com/article/mrn-article).  Please consult this page for more learning materials and documentation about this API.
 
 For any question related to this tutorial|article|example ***(use the appropriate term)*** please use the Developer Community [Q&A Forum](https://community.developers.thomsonreuters.com).
 
