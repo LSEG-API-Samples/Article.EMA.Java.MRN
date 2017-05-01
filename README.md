@@ -1,4 +1,13 @@
 ##MRN (Machine Readable News) on Elektron
+
+####Introduction
+This project is one of the many learning materials published by Thomson Reuters to help developers learning Thomson Reuters APIs.
+This specific project source code is part of the [Introduction to machine readable news with Elektron Message API](https://developers.thomsonreuters.com/article/mrn-article). Please consult this page for more learning materials and documentation about this API.
+
+For any question related to this tutorial|article|example ***(use the appropriate term)*** please use the Developer Community [Q&A Forum](https://community.developers.thomsonreuters.com).
+
+***Note:** To be able to ask questions and to benefit from the full content available on the [Thomson Reuters Developer Community portal](https://developers.thomsonreuters.com) we recommend you to [register here]( https://developers.thomsonreuters.com/iam/register) or [login here]( https://developers.thomsonreuters.com/iam/login?destination_path=Lw%3D%3D).*
+
 ####EMA Java Console Example
 
 #####Overview
