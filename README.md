@@ -1,7 +1,7 @@
 ## MRN (Machine Readable News) on Refinitiv Real-Time
 
 #### Introduction
-This set of examples is one of the many learning materials published by Thomson Reuters to help developers learning Thomson Reuters APIs; this source code is part of the [Introduction to Machine Readable News (MRN) with Enterprise Message API (EMA)](https://developers.refinitiv.com/en/article-catalog/article/introduction-machine-readable-news-mrn-elektron-message-api-ema).  Please consult this page for more learning materials and documentation about this API.
+This set of examples is one of the many learning materials published by Refinitiv to help developers learning Refinitiv APIs; this source code is part of the [Introduction to Machine Readable News (MRN) with Enterprise Message API (EMA)](https://developers.refinitiv.com/en/article-catalog/article/introduction-machine-readable-news-mrn-elektron-message-api-ema).  Please consult this page for more learning materials and documentation about this API.
 
 For any question related to this article or the examples please use the Developer Community [Q&A Forum](https://community.developers.refinitiv.com/).
 
